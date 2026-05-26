@@ -1,4 +1,4 @@
-```markdown
+
 # Customer Behavior Data Analyst Portfolio Project
 
 ## 📌 Project Overview
